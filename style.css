@@ -1,0 +1,13 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.item {
+    height: 200px( !important);
+    width: 280px( !important);
+}
+
+.item-active {
+    height: 200px( !important);
+    width: 280px( !important);
+}
